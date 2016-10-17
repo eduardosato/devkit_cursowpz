@@ -1,0 +1,29 @@
+{
+  "name": "DevKit",
+  "version": "0.0.1",
+  "authors": [
+    "Mobi <atendimento@agencia.mobi>"
+  ],
+  "description": "Padrao de Desenvolvimento",
+  "main": "assets/scripts/app.js",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/scripts/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "colorbox": "~1.6.3",
+    "font-awesome": "https://github.com/FortAwesome/Font-Awesome.git#~4.4.0",
+    "jquery": "~2.1.4",
+    "modernizr": "~2.8.3",
+    "bootstrap": "https://github.com/twbs/bootstrap.git",
+    "bxslider-4": "https://github.com/stevenwanderski/bxslider-4.git",
+    "sweetalert": "https://github.com/t4t5/sweetalert.git",
+    "wow": "https://github.com/matthieua/WOW.git#^1.1.2"
+  }
+}
